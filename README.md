@@ -22,6 +22,13 @@ Summary:
 This video introduces Scapegoat Trees and focuses on how they maintain balance using subtree sizes.
 It covers search, insertion, and deletion, explains when a full rebuild is required, and discusses worst-case and amortized time complexity.
 
+# 📂 Visualizations and GIFs
+
+🔗 Repository: https://github.com/korrzh/Algorithms2_Miniproject.git
+
+This repository contains GIF visualizations for each demonstrated tree.
+The GIFs show step-by-step operations such as search, insertion, deletion, and rebalancing, making the behavior of each tree easier to understand.
+
 # 🎯 Goal
 
 The goal of these videos is to provide an intuitive and visual explanation of BB[α]-Trees and Scapegoat Trees, making their balancing strategies easier to understand.
